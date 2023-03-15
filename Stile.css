@@ -1,0 +1,72 @@
+body {
+    background-image: url("background.jpg");
+    background-color: rgb(155, 226, 155);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#riquadro-interno {
+    background-color: rgb(0, 0, 0, 0.5);
+    padding: 70px 80px 70px 80px;
+    margin: 50px 100px 50px 100px;
+    border-radius: 15px;
+}
+
+img {
+    width: 200px;
+}
+
+.center {
+    display: block;
+    margin: auto;
+    text-align: center;
+    color: rgb(49, 198, 49);
+}
+
+#titolone {
+    margin-bottom: 5px;
+}
+
+.input {
+    background-color: rgb(49, 198, 49);
+    text-align: center;
+    padding: 10px;
+    margin-top: 5px;
+}
+
+.prodotti{
+    color: white;
+}
+
+.monopattino {
+    padding-top: 20px;
+}
+.nomi{
+    display: inline-block;
+    font-size: large;
+    margin: auto;
+}
+
+#colorbar1 {
+    background-color: coral;
+    display: inline-block;
+    width: 60%;
+    height: 25px;
+    border-radius: 3px;
+}
+
+#colorbar2 {
+    background-color: darkgoldenrod;
+    display: inline-block;
+    width: 80%;
+    height: 25px;
+    border-radius: 3px;
+}
+
+#colorbar3 {
+    background-color: brown;
+    display: inline-block;
+    width: 30%;
+    height: 25px;
+    border-radius: 3px;
+}
